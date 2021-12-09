@@ -1,0 +1,31 @@
+.black{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: black;
+}
+
+.purple{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: purple;
+}
+
+.yellow{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: yellow;
+}
+
+.green{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 100%;
+    background: green;
+}
