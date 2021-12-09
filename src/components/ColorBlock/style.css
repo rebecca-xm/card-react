@@ -1,31 +1,55 @@
-.black{
+.colors__label {
+    display: flex;
+    margin-bottom: 5px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+}
+
+.colors {
+    height: 50px;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.black {
     width: 20px;
     height: 20px;
     border: none;
     border-radius: 100%;
     background: black;
+    margin-right: 5px;
 }
 
-.purple{
+.purple {
     width: 20px;
     height: 20px;
     border: none;
     border-radius: 100%;
-    background: purple;
+    background: #220346;
+    margin-right: 5px;
 }
 
-.yellow{
+.yellow {
     width: 20px;
     height: 20px;
     border: none;
     border-radius: 100%;
-    background: yellow;
+    background: rgb(187, 187, 68);
+    margin-right: 5px;
 }
 
-.green{
+.green {
     width: 20px;
     height: 20px;
     border: none;
     border-radius: 100%;
-    background: green;
+    background: #4c5536;
 }

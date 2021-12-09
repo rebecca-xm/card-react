@@ -12,7 +12,7 @@ const ProductCard = () => (
       <ImageBlock image="https://res.cloudinary.com/db46klhlo/image/upload/v1639056543/jakob-owens-O_bhy3TnSYU-unsplash.jpg" />
     </div>
     <div className='product__textblock'>
-      <TextBlock product='Backpack' price='34' />
+      <TextBlock product='Backpack' price='34$' />
     </div>
     <div className='product__description'>
       <ParagraphBlock description='With a concept designed to be easy to understand, RAINS bridge the gap between geography and lifestyle.' />

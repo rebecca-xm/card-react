@@ -3,7 +3,9 @@ import ProductCard from './components/CardBlock';
 
 function App() {
   return (
-    <ProductCard/>
+    <div className='ProductCard'>
+      <ProductCard />
+    </div>
   );
 }
 
