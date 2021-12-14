@@ -1,4 +1,12 @@
-.ProductCard {
-  text-align: center;
-  margin-top: 100px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App-header {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  color: black;
 }
