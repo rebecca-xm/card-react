@@ -6,7 +6,7 @@ const CardDescription = ({ title, price, description }) => (
   <div className="card-description">
     <div className="card-description__priceTitle">
       <p className="card-description__title">{title}</p>
-      <p className="card-description__price">{price}</p>
+      <p className="card-description__price">{price} (VAT included)</p>
     </div>
     <div className="card-description__descriptionContainer">
       <p className="card-description__description">{description}</p>
